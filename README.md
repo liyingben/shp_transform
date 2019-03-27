@@ -21,6 +21,11 @@ sudo apt-get install gdal-bin
 sudo apt-get -y install python-gdal
 运行shp-transform.py；
 
+window安装GDAL
+根据python版本下载相应的GDAL安装文件，下载地址如下：
+http://www.lfd.uci.edu/~gohlke/pythonlibs/#gdal
+打开上面地址，下载:GDAL-2.1.3-cp35-cp35m-win_amd64.whl
+pip install GDAL-2.1.3-cp35-cp35m-win_amd64.whl
        
 ## 使用
 
